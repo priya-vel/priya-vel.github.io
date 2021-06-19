@@ -1,5 +1,7 @@
 # Things to remember
 
+following are basic git commands
+
 ```sh
 # addint all the code to staging
 git add .
